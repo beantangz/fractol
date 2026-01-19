@@ -8,7 +8,7 @@ SRC = fractol.c \
 		julia.c
 
 # Répertoire de MiniLibX et libft
-MLX_DIR = minilibx-linux
+MLX_DIR = minilib
 LIBFT_DIR = libft
 
 CC = gcc
